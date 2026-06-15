@@ -127,8 +127,6 @@ I enjoy turning ideas into real products by creating clean, maintainable code an
 </tr>
 </table>
 
----
-
 ## 🗄️ Database & BaaS
 
 <table>
@@ -136,6 +134,16 @@ I enjoy turning ideas into real products by creating clean, maintainable code an
 <td align="center">
 <img src="https://skillicons.dev/icons?i=mysql" width="48" />
 <br>MySQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" />
+<br>PostgreSQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" />
+<br>MongoDB
 </td>
 
 <td align="center">
@@ -150,7 +158,6 @@ I enjoy turning ideas into real products by creating clean, maintainable code an
 </tr>
 </table>
 
----
 
 ## 🛠️ Tools & Platforms
 

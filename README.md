@@ -1,52 +1,81 @@
 <h1 align="center">Hi 👋, I'm Adam Rasyid</h1>
-<h3 align="center">A passionate FullStack developer from Indonesia</h3>
+<h3 align="center">Full Stack Developer specializing in Web & Mobile Applications</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adamrasyid01&label=Profile%20views&color=0e75b6&style=flat" alt="adamrasyid01" />
-  <img src="https://img.shields.io/github/followers/adamrasyid01?label=Followers&style=social" alt="adamrasyid01" />
+Building modern, scalable, and user-friendly digital products with React, Next.js, Vue.js, Flutter, and Node.js.
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+---
 
-- 🌱 I’m currently learning **[How to create Website with Laravel and Building another Mobile Apps]**
+### 🚀 About Me
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Dart, Vue, React, Express**
+I'm a Full Stack Developer from Indonesia with experience building websites, dashboards, company profiles, e-commerce platforms, and mobile applications.
 
-- 📫 How to reach me **[adamrasyid01@gmail.com]**
+I enjoy turning ideas into real products by creating clean, maintainable code and intuitive user experiences. My primary focus is developing fast, responsive, and business-oriented solutions that help clients grow their online presence.
 
-- 📄 Know about my experiences [Your Resume](https://link-to-your-resume)
+### 💼 What I Do
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/adam-rasyid-n-705359245/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="your-linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/adamnm_04/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
+* 🌐 Business Websites & Company Profiles
+* 🛒 E-Commerce Websites
+* 📱 Cross-Platform Mobile Apps with Flutter
+* 📊 Admin Dashboards & Internal Systems
+* ⚡ REST API Integration
+* 🎨 Responsive UI Development
+* 🚀 Deployment & Production Setup
 
-</p>
+### 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-</p>
+**Frontend**
+
+* React.js
+* Next.js
+* Vue.js
+* JavaScript / TypeScript
+* Tailwind CSS
+* HTML5 & CSS3
+
+**Mobile**
+
+* Flutter
+* Dart
+
+**Backend**
+
+* Node.js
+* Express.js
+* Supabase
+* Firebase
+
+**Tools**
+
+* Git & GitHub
+* Postman
+* Vercel
+* Figma
+
+### 🌱 Currently Learning
+
+* Advanced Next.js Architecture
+* Backend Scalability & System Design
+* Modern AI-Assisted Development Workflows
+
+### 🤝 Open For
+
+* Freelance Projects
+* Remote Opportunities
+* Startup Collaborations
+* Long-Term Partnerships
+
+### 📫 Contact
+
+* Email: **[adamrasyid01@gmail.com](mailto:adamrasyid01@gmail.com)**
+* LinkedIn: **https://www.linkedin.com/in/adam-rasyid-n-705359245/**
+* Instagram: **https://www.instagram.com/adamnm_04/**
+
+### ⚡ Fun Fact
+
+I enjoy building products that solve real business problems and continuously exploring new technologies to improve development workflows.
+
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">

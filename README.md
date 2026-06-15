@@ -23,45 +23,171 @@ I enjoy turning ideas into real products by creating clean, maintainable code an
 * 🎨 Responsive UI Development
 * 🚀 Deployment & Production Setup
 
-## 🚀 Tech Stack
+## 📱 Mobile Development
 
 <table>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=flutter" width="48"/><br>Flutter</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=dart" width="48"/><br>Dart</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"/><br>React</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br>Next.js</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vue" width="48"/><br>Vue.js</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nuxtjs" width="48"/><br>Nuxt.js</td>
-</tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flutter" width="48" />
+<br>Flutter
+</td>
 
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48"/><br>TypeScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="48"/><br>NestJS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=express" width="48"/><br>Express</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=laravel" width="48"/><br>Laravel</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="48"/><br>Supabase</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="48"/><br>Firebase</td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="48"/><br>Figma</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br>Vercel</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=dart" width="48" />
+<br>Dart
+</td>
 </tr>
 </table>
+
+---
+
+## 🎨 Frontend Development
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="48" />
+<br>React
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" />
+<br>Next.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vue" width="48" />
+<br>Vue.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nuxtjs" width="48" />
+<br>Nuxt.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="48" />
+<br>JavaScript
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" width="48" />
+<br>TypeScript
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="48" />
+<br>HTML5
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="48" />
+<br>CSS3
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" />
+<br>Tailwind CSS
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48" />
+<br>Bootstrap
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Backend Development
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" />
+<br>Node.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nestjs" width="48" />
+<br>NestJS
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="48" />
+<br>Express.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=laravel" width="48" />
+<br>Laravel
+</td>
+</tr>
+</table>
+
+---
+
+## 🗄️ Database & BaaS
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" />
+<br>MySQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=supabase" width="48" />
+<br>Supabase
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" />
+<br>Firebase
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="48" />
+<br>Git
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="48" />
+<br>GitHub
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="48" />
+<br>Postman
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma" width="48" />
+<br>Figma
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" />
+<br>Vercel
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" />
+<br>VS Code
+</td>
+</tr>
+</table>
+
 
 ### 🌱 Currently Learning
 

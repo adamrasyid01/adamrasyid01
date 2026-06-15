@@ -23,30 +23,10 @@ I enjoy turning ideas into real products by creating clean, maintainable code an
 * 🎨 Responsive UI Development
 * 🚀 Deployment & Production Setup
 
-### 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-## 🛠️ Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,tailwind,html,css" />
-</p>
-
-## 📱 Mobile
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-## ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase" />
-</p>
-
-## 🧰 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,vue,js,ts,tailwind,nodejs,nestjs,express,laravel,supabase,firebase,git,github,postman,vercel,figma,vscode&perline=10" />
 </p>
 
 

@@ -49,12 +49,6 @@ I enjoy turning ideas into real products by creating clean, maintainable code an
   <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma,vscode" />
 </p>
 
-## 🌱 Currently Learning
-
-* Advanced Next.js
-* System Design
-* AI-Assisted Development Workflows
-* Backend Scalability
 
 ### 🌱 Currently Learning
 

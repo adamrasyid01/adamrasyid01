@@ -127,8 +127,11 @@ I enjoy turning ideas into real products by creating clean, maintainable code an
 </tr>
 </table>
 
+---
+
 ## 🗄️ Database & BaaS
 
+---
 <table>
 <tr>
 <td align="center">
@@ -157,6 +160,8 @@ I enjoy turning ideas into real products by creating clean, maintainable code an
 </td>
 </tr>
 </table>
+
+---
 
 
 ## 🛠️ Tools & Platforms
